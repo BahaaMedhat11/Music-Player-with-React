@@ -6,7 +6,7 @@ A modern and responsive Music Player built with React that allows users to brows
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** https://your-live-demo-url.vercel.app
+🔗 **Live Demo:** [Music Player](https://music-player-with-react-psi.vercel.app/)
 
 ---
 
@@ -14,17 +14,11 @@ A modern and responsive Music Player built with React that allows users to brows
 
 ### Home Page
 
-![Home Page](./preview/home.png)
+![Home Page](./preview/preview-1.png)
 
 ### Playlist Management
 
-![Playlists](./preview/playlists.png)
-
-### Music Player
-
-![Music Player](./preview/player.png)
-
-> Replace the screenshots above with your actual project screenshots.
+![Playlists](./preview/preview-2.png)
 
 ---
 
@@ -186,8 +180,8 @@ This project is licensed under the MIT License.
 
 ### Bahaa Medhat
 
-- GitHub: :contentReference[oaicite:0]{index=0}
-- LinkedIn: :contentReference[oaicite:1]{index=1}
+- GitHub: [BahaaMedhat11](https://github.com/BahaaMedhat11)
+- LinkedIn: [Bahaa Wanas](https://www.linkedin.com/in/bahaa-wanas-9797b923a/)
 
 ---
 
